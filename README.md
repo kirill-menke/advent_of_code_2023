@@ -9,4 +9,5 @@ For challenge descriptions and inputs, check out: https://adventofcode.com/
  :-:| :-: | :-: |
  01 | [Trebuchet?!](day_01) | ⭐️⭐️ |
  02 | [Cube Conundrum](day_02) | ⭐️⭐️ |
- 02 | [Gear Ratios](day_03) | ⭐️⭐️ |
+ 03 | [Gear Ratios](day_03) | ⭐️⭐️ |
+ 04 | [Scratchcards](day_04) | ⭐️⭐️ |
