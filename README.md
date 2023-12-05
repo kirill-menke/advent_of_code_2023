@@ -11,3 +11,4 @@ For challenge descriptions and inputs, check out: https://adventofcode.com/
  02 | [Cube Conundrum](day_02) | ⭐️⭐️ |
  03 | [Gear Ratios](day_03) | ⭐️⭐️ |
  04 | [Scratchcards](day_04) | ⭐️⭐️ |
+ 05 | [If You Give A Seed A Fertilizer](day_05) | ⭐️⭐️ |
