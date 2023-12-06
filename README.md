@@ -12,3 +12,4 @@ For challenge descriptions and inputs, check out: https://adventofcode.com/
  03 | [Gear Ratios](day_03) | ⭐️⭐️ |
  04 | [Scratchcards](day_04) | ⭐️⭐️ |
  05 | [If You Give A Seed A Fertilizer](day_05) | ⭐️⭐️ |
+ 06 | [Wait For It](day_06) | ⭐️⭐️ |
