@@ -2,10 +2,10 @@ import sys
 import timeit
 import subprocess
 
-iterations = 10
+iterations = int(sys.argv[1])
 
 def run_script(compiler):
-    subprocess.run([compiler, sys.argv[1], sys.argv[2]], stdout=subprocess.DEVNULL)
+    subprocess.run([compiler, sys.argv[2], sys.argv[3]], stdout=subprocess.DEVNULL)
 
 time_cpython = min(timeit.repeat(lambda: run_script('python'), repeat=iterations, number=1))
 time_cpython = time_cpython * 1000
