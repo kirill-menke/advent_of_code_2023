@@ -5,7 +5,7 @@
 For challenge descriptions and inputs, check out: https://adventofcode.com/
 
 ## Challenges
- Day | Name | CPython | PyPy | CUDA Jit | Stars |
+ Day | Name | CPython | PyPy | CUDA JIT | Stars |
  :-:| :-: | :-: | :-: | :-: | :-: |
  01 | [Trebuchet?!](day_01) | 45 ms | 41 ms | - | ⭐️⭐️ |
  02 | [Cube Conundrum](day_02) | 26 ms | 32 ms | - | ⭐️⭐️ |
@@ -13,6 +13,7 @@ For challenge descriptions and inputs, check out: https://adventofcode.com/
  04 | [Scratchcards](day_04) | 28 ms | 30 ms | - | ⭐️⭐️ |
  05 | [If You Give A Seed A Fertilizer](day_05) | ~ 2 h | 16 min | 4.4 s | ⭐️⭐️ |
  06 | [Wait For It](day_06) | 4490 ms | 81 ms | 615 ms | ⭐️⭐️ |
+ 07 | [Camel Cards](day_07) | 29 ms | 48 ms | - | ⭐️⭐️ |
 
 To measure the process time with both CPython and PyPy, run the following:
 ``` shell
