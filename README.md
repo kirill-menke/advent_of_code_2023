@@ -14,6 +14,7 @@ For challenge descriptions and inputs, check out: https://adventofcode.com/
  05 | [If You Give A Seed A Fertilizer](day_05) | ~ 2 h | 16 min | 4.4 s | ⭐️⭐️ |
  06 | [Wait For It](day_06) | 4490 ms | 81 ms | 615 ms | ⭐️⭐️ |
  07 | [Camel Cards](day_07) | 29 ms | 48 ms | - | ⭐️⭐️ |
+ 08 | [Haunted Wasteland](day_08) | 39 ms | 37 ms | - | ⭐️⭐️ |
 
 To measure the process time with both CPython and PyPy, run the following:
 ``` shell
